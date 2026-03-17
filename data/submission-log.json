@@ -44,6 +44,15 @@
       "status": "processed",
       "submitted_by": "AdrianOsborne",
       "url": "https://www.woolworths.com.au/shop/productdetails/9096/masterfoods-finely-crushed-garlic"
+    },
+    {
+      "issue_number": 7,
+      "product_id": "9393015",
+      "published_path": "data/products/coles/9393015.json",
+      "retailer": "coles",
+      "status": "processed",
+      "submitted_by": "AdrianOsborne",
+      "url": "https://www.coles.com.au/product/sanitarium-weet-bix-cereal-1.2kg-9393015"
     }
   ]
 }
