@@ -17,6 +17,15 @@
       "status": "processed",
       "submitted_by": "AdrianOsborne",
       "url": "https://www.coles.com.au/product/sanitarium-weet-bix-cereal-1.2kg-9393015"
+    },
+    {
+      "issue_number": 4,
+      "product_id": "000000000000308281",
+      "published_path": "data/products/aldi/000000000000308281.json",
+      "retailer": "aldi",
+      "status": "processed",
+      "submitted_by": "AdrianOsborne",
+      "url": "https://www.aldi.com.au/product/bon-appetit-sliced-brioche-burger-buns-with-sesame-seeds-4-pack-200g-000000000000308281"
     }
   ]
 }
