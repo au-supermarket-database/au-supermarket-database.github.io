@@ -1,6 +1,17 @@
 {
   "products": [
     {
+      "brand": "Sanitarium",
+      "path": "data/products/coles/9393015.json",
+      "price": 10.0,
+      "product": "Weet-bix Cereal",
+      "product_id": "9393015",
+      "retailer": "coles",
+      "size": "1.2kg",
+      "submitted_by": "AdrianOsborne",
+      "url": "https://www.coles.com.au/product/sanitarium-weet-bix-cereal-1.2kg-9393015"
+    },
+    {
       "brand": "MasterFoods",
       "path": "data/products/woolworths/9096.json",
       "price": 2.7,
