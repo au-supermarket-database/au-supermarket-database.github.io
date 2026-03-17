@@ -35,6 +35,15 @@
       "status": "processed",
       "submitted_by": "AdrianOsborne",
       "url": "https://www.aldi.com.au/product/bon-appetit-sliced-brioche-burger-buns-with-sesame-seeds-4-pack-200g-000000000000308281"
+    },
+    {
+      "issue_number": 8,
+      "product_id": "9096",
+      "published_path": "data/products/woolworths/9096.json",
+      "retailer": "woolworths",
+      "status": "processed",
+      "submitted_by": "AdrianOsborne",
+      "url": "https://www.woolworths.com.au/shop/productdetails/9096/masterfoods-finely-crushed-garlic"
     }
   ]
 }
