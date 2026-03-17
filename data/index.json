@@ -1,3 +1,15 @@
 {
-  "products": []
+  "products": [
+    {
+      "brand": "MasterFoods",
+      "path": "data/products/woolworths/9096.json",
+      "price": 2.7,
+      "product": "Finely Crushed Garlic",
+      "product_id": "9096",
+      "retailer": "woolworths",
+      "size": "170g",
+      "submitted_by": "AdrianOsborne",
+      "url": "https://www.woolworths.com.au/shop/productdetails/9096/masterfoods-finely-crushed-garlic"
+    }
+  ]
 }
